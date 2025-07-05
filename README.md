@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manas Raj</h1>
-<h3 align="center">A passionate MERN stack developer with expertise in HTML, CSS, React, Node.js, Express, and MongoDB.</h3>
+<h3 align="center">A dedicated full-stack developer with expertise in the MERN stack (MongoDB, Express, React, Node.js) and additional experience in Flutter, Firebase, Supabase, and Next.js. Skilled in building scalable web and mobile applications using modern technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manasraj9&label=Profile%20views&color=0e75b6&style=flat" alt="manasraj9" /> </p>
 
