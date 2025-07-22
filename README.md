@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manasraj9" alt="manasraj9" /></a> </p>
 
-- 🌱 I’m currently learning **Angular** and **React Native**
+- 🌱 I’m currently learning **Flutter** and **Firebase**
 
-- 👨‍💻 All of my projects are available at [https://manasraj9.github.io/Portfolio/](https://manasraj9.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://www.manasraj.xyz/)
 
-- 💬 Ask me about **react, Node ,express**
+- 💬 Ask me about **Web developemnt, App development and Unity**
 
 - 📫 How to reach me **manasraj1357@gmail.com**
 
